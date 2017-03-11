@@ -1,1 +1,1 @@
-# bootguard
+# Intel Boot Guard research
